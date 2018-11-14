@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:StillXamarin"
+             xmlns:ic="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             x:Class="StillXamarin.MainPage">
+
+    <StackLayout BackgroundColor="Black">
+        <StackLayout Orientation="Horizontal">
+            <Button  Text="Previous"/>
+            <ActivityIndicator IsRunning="True" AbsoluteLayout.LayoutBounds="0.5,0.5,100,100" AbsoluteLayout.LayoutFlags="PositionProportional" />
+            <Button  Text="Next"/>
+        </StackLayout>
+        
+        <AbsoluteLayout HorizontalOptions="Center" VerticalOptions="Fill">
+            <Image Source="http://lorempixel.com/1920/1080/city/x/" HorizontalOptions="Fill" VerticalOptions="Fill"/>
+        </AbsoluteLayout>
+        
+    </StackLayout>
+
+</ContentPage>

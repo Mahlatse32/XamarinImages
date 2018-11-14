@@ -1,0 +1,11 @@
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\bin\Debug\netstandard2.0\StillXamarin.deps.json
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\bin\Debug\netstandard2.0\StillXamarin.dll
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\bin\Debug\netstandard2.0\StillXamarin.pdb
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\StillXamarin.csproj.CoreCompileInputs.cache
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\StillXamarin.AssemblyInfoInputs.cache
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\StillXamarin.AssemblyInfo.cs
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\StillXamarin.dll
+C:\Users\mahlatset\Desktop\XamarinImages\StillXamarin\StillXamarin\StillXamarin\obj\Debug\netstandard2.0\StillXamarin.pdb
